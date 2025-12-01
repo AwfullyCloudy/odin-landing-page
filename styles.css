@@ -95,3 +95,9 @@ body {
     width: 150px;
     height: 150px;
 }
+
+#container3 {
+    text-align: center;
+    margin: auto;
+    background-color: #E5E7EB;
+}
