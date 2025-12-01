@@ -55,6 +55,16 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+#button {
+    color: #F9FAF8;
+    box-sizing: border-box;
+    background-color: #3882F6;
+    border-radius: 25px;
+    text-align: center;
+    padding: 10px;
+    height: 35px;
+    width: 115px;
+}
 
 #imge {
     padding: 150px;
