@@ -70,3 +70,28 @@ body {
     padding: 150px;
     background-color: ghostwhite;
 }
+
+#info {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#container2 {
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: auto;
+    width: 800px;
+    height: 150px;
+    gap: 10px 10px;
+
+
+}
+
+#item {
+    width: 150px;
+    height: 150px;
+}
