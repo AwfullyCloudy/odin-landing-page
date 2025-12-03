@@ -97,7 +97,24 @@ body {
 }
 
 #container3 {
+    box-sizing: border-box;
     text-align: center;
-    margin: auto;
     background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 40px 0px;
+}
+
+#quote {
+    font-size: 36px;
+    font-weight: 300px;
+    text-align: left;
+    width: 580px;
+    height: 190px;
+    margin: auto;
+}
+
+#author {
+    text-align: center;
+    font-size: 28px;
+    padding-left: 420px;
 }
