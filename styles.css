@@ -126,3 +126,24 @@ body {
     font-size: 28px;
     padding-left: 420px;
 }
+
+#container4 {
+    height: 200px;
+    padding: 150px;
+    margin: auto;
+}
+
+#container4 button {
+    border: 5px ghostwhite solid;
+}
+
+#box {
+    display:flex;
+    background-color: #3882F6;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+    box-sizing: border-box;
+    width: 700px;
+    height: 100px;
+}
