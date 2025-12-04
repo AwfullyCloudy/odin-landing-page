@@ -59,7 +59,7 @@ body {
     color: #F9FAF8;
     box-sizing: border-box;
     background-color: #3882F6;
-    border-radius: 25px;
+    border-radius: 5px;
     text-align: center;
     padding: 10px;
     height: 35px;
@@ -133,12 +133,13 @@ body {
     margin: auto;
 }
 
-#container4 button {
-    border: 5px ghostwhite solid;
+#container4 #button {
+    border: 1px ghostwhite solid;
 }
 
 #box {
     display:flex;
+    color: #F9FAF8;
     background-color: #3882F6;
     justify-content: space-evenly;
     align-items: center;
@@ -146,4 +147,6 @@ body {
     box-sizing: border-box;
     width: 700px;
     height: 100px;
+    border-radius: 5px;
+
 }
