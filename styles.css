@@ -128,8 +128,8 @@ body {
 }
 
 #container4 {
-    height: 200px;
-    padding: 150px;
+    height: 150px;
+    padding: 100px;
     margin: auto;
 }
 
@@ -145,7 +145,7 @@ body {
     align-items: center;
     margin: auto;
     box-sizing: border-box;
-    width: 700px;
+    width: 1000px;
     height: 100px;
     border-radius: 5px;
 
